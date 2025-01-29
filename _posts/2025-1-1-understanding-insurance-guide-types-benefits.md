@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Insurance: A Complete Guide to Different Types and Benefits
+title: Understanding Insurance, A Complete Guide to Different Types and Benefits
 ---
 
 ## Introduction
