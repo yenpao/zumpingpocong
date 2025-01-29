@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to ZUMPOC, your trusted source for insurance insights!
 
-### More Information
+This blog is dedicated to providing informative articles about insurance—covering everything from choosing the right policy and understanding benefits to comprehensive guides on financial protection.
 
-A place to include any other types of information that you'd like to include about yourself.
+My goal is to offer clear, insightful, and easy-to-understand information so you can make the best insurance decisions.
 
-### Contact me
+If you have any questions or would like to collaborate, feel free to contact me at yenpao924@gmail.com.
 
-[email@domain.com](mailto:email@domain.com)
+Thank you for visiting!
