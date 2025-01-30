@@ -4,16 +4,20 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-
+<!--kode iklan otomatis-->
   {% include adsense.html %}
 
+  <!--kode iklan atas artikel-->
+  {% include ad-unit.html %}
+  
   <div class="entry">
     {{ content }}
   </div>
+  <!--kode iklan bawah artikel-->
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-  {% include adsense.html %}
+
   {% include disqus.html %}
 </article>
