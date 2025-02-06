@@ -1,7 +1,7 @@
 ---
 layout: post
 title: online master in finance
----
+--- 
 
 
 <h1 id="the-benefits-of-pursuing-an-online-masters-in-finance-NwUMfHXTgA">The Benefits of Pursuing an Online Master's in Finance</h1>**The Benefits of Pursuing an Online Master's in Finance**
