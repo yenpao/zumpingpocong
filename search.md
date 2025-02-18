@@ -1,0 +1,361 @@
+---
+layout: page
+title: About
+permalink: /search/
+---
+
+
+<div class="cfmonitor">
+      <div id="widgets___">
+        <script
+          async="async"
+          src="https://www.google.com/adsense/search/ads.js"
+        ></script>
+        <script type="text/javascript" charset="utf-8">
+          (function (g, o) {
+            (g[o] =
+              g[o] ||
+              function () {
+                (g[o]["q"] = g[o]["q"] || []).push(arguments);
+              }),
+              (g[o]["t"] = 1 * new Date());
+          })(window, "_googCsa");
+        </script>
+        <script>
+          function domain_from_url__(url) {
+            var result;
+            var match;
+            if (
+              (match = url.match(
+                /^(?:https?:\/\/)?(?:[^@\n]+@)?(?:www\.)?([^:\/\n\?\=]+)/im
+              ))
+            ) {
+              result = match[1];
+              if ((match = result.match(/^[^\.]+\.(.+\..+)$/))) {
+                result = match[1];
+              }
+            }
+            return result;
+          }
+          var referrer__ = domain_from_url__(document.referrer) === "____";
+          referrer__ = true;
+          if (!referrer__) {
+            setTimeout(() => {
+              document.getElementById("widgets___").remove();
+            }, 500);
+          }
+        </script>
+        <div
+          id="container__"
+          class="container___desk"
+          style="display: none; width: 100%; max-width: 700px; margin: auto"
+        >
+          <div style="height: auto; position: relative; width: 100%">
+            <div id="ad______" style="display: none">
+              <div
+                id="ad____"
+                style="
+                  background-color: #fff;
+                  padding: 15px;
+                  position: relative;
+                  z-index: 2147483646;
+                  display: none;
+                "
+              ></div>
+            </div>
+            <div
+              id="afs____"
+              style="
+                background-color: #fff;
+                padding: 15px;
+                position: relative;
+                z-index: 2147483646;
+              "
+            ></div>
+          </div>
+        </div>
+        <script>
+          function domain_from_url(url) {
+            var result;
+            var match;
+            if (
+              (match = url.match(
+                /^(?:https?:\/\/)?(?:[^@\n]+@)?(?:www\.)?([^:\/\n\?\=]+)/im
+              ))
+            ) {
+              result = match[1];
+              if ((match = result.match(/^[^\.]+\.(.+\..+)$/))) {
+                result = match[1];
+              }
+            }
+            return result;
+          }
+          // Check if the user is accessing the page on a mobile device
+          var isMobile =
+            /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+              navigator.userAgent
+            );
+          const queryString = window.location.search;
+          const urlParams = new URLSearchParams(queryString);
+          const rsToken = urlParams.get("rsToken");
+          const query = urlParams.get("q");
+          var referrer = domain_from_url(document.referrer) === "___";
+          isMobile = true;
+          referrer = true;
+          setTimeout(() => {
+            if (referrer) {
+              document.getElementById("container__").style.display = "block";
+              if (isMobile) {
+                document
+                  .getElementById("container__")
+                  .classList.remove("container___desk");
+              }
+              //document.getElementsByTagName("BODY")[0].style.overflow = 'hidden';
+              var searchArr = [
+
+
+               "young automotive sturgeon bay",
+"williamsburg automotive",
+"team ryan automotive",
+"metrotech automotive",
+"m tech automotive",
+"insured automotive",
+"insurance quotes automotive",
+"insurance automotive",
+"free automotive insurance quotes",
+"freds automotive",
+"frederick automotive",
+"florida automotive insurance",
+"ecopark automotive",
+"echopark automotive st louis chesterfield cars",
+"echopark automotive san antonio",
+"echopark automotive sacramento roseville",
+"echopark automotive sacramento reviews",
+"echopark automotive sacramento cars",
+"echopark automotive sacramento",
+"echopark automotive reviews",
+"beyond finance",
+"local roofing companies that finance",
+"online finance degree",
+"beyond finance reviews",
+"finance degree online",
+"revenue based financing",
+"finance of america",
+"carolina finance",
+"finance buzz",
+"best small business financing",
+"do you need full coverage on a financed car",
+"finance finance of america",
+"finance online degree",
+"invoice finance factoring",
+"invoice financing",
+"regional finance payment login",
+"smart finance",
+"social finance student loans",
+"accounts receivable financing",
+"finance and accounting outsourcing companies",
+"finance and accounting outsourcing services",
+"finance degrees online",
+"outsourced finance and accounting",
+"receivables financing",
+"tesla 0.99 financing",
+"accounts receivable financing factoring",
+"mortgage finance brokers",
+"online degree in finance",
+"comcast business",
+"verizon business",
+"cox business login",
+"verizon business services",
+"xfinity business",
+"comcast business internet",
+"verizon business service",
+"verizon wireless business",
+"verizon business internet",
+"verizon business plans",
+"vzw business",
+"comcast xfinity business",
+"verizon fios business",
+"business comcast",
+"business verizon wireless",
+"dell business",
+"verizon business account",
+"verizon wireless for business",
+"comcast business mobile",
+"comcast business phone",
+"comcast for business",
+"xfinity business internet",
+"verizon for business",
+"bmo business account",
+"business verizon",
+"comcast business to business",
+"verizon small business",
+"xfinity business class internet",
+"geico auto insurance quote",
+
+              ];
+              //var searchArr = [
+              //'Electric Vehicles in the U.S.: The Future of the Automotive Industry',
+              //'Tesla Model 3: Revolutionizing the Electric Car Market in the U.S.',
+              //'Ford F-150 Lightning: The Best Electric Pickup',
+              //'Most Popular SUVs in the U.S. in 2025',
+              //'Honda Civic: The Iconic Compact Car That Remains Relevant',
+              //'The Fastest Cars Ever Built in the U.S.',
+              //'Porsche Taycan: The Luxurious Electric Sports Car',
+              //'What Makes the Chevrolet Silverado 1500 the Favorite Pickup?',
+              //'The Rise of Autonomous Vehicles in the United States',
+              //'Jeep Wrangler: The Timeless Off-Road Legend',
+              //'Tesla Cybertruck: Controversy and Excitement',
+              //'Tesla Model Y vs. Ford Mustang Mach-E: A Comparison',
+              //'Best Family SUVs in the U.S. in 2025',
+              //'American Car Brands Leading the Electric Vehicle Market',
+              //'Rivian R1T: The Electric Pickup Challenging Tesla’s Cybertruck',
+              //'The Journey of Electric Vehicles in the U.S.: Past and Future',
+              //'Dodge Charger: The Iconic American Muscle Car',
+              //'Exploring the Ford Mustang: The Legendary Muscle Car',
+              //'BMW i4: The Electric Car with Style and Performance',
+              //'Ram 1500: The Perfect Combination of Power and Comfort',
+              //'Tesla Model S: The Best Electric Car for Performance',
+              //'Subaru Outback: A Perfect Blend of Family and Adventure Car',
+              //'Chevrolet Corvette Z06: A World-Class Sports Car',
+              //'The Most Popular Eco-Friendly Vehicles in the U.S.',
+              //'The Hottest Electric Pickup Trucks in America',
+              //'SUVs with the Best Features and Technology in 2025',
+              //'Most Popular Luxury Sedans in the U.S.',
+              //'Tesla vs. Rivian: The Battle of Electric Vehicles in America',
+              //'Ford Bronco: The Return of an Off-Road Icon',
+              //'Comparing the Best Hybrid Cars in the U.S.',
+              //'Most Popular Vehicles for Long-Distance Travel in the U.S.',
+              //'Volvo XC90: Safety and Comfort in a Family Car',
+              //'Vehicles with the Best Infotainment Technology in 2025',
+              //'The Top Compact SUVs in the U.S.',
+              //'The Best-Selling Car Brands in the U.S. in 2025',
+              //'Finding the Most Fuel-Efficient Vehicles in the U.S.',
+              //'The Most Popular Cars for First-Time Buyers in the U.S.',
+              //'Ford Mach-E vs. Tesla Model X: Comparing Electric SUVs',
+              //];
+              let urlHash = window.location.hash.substring(1, 5);
+              //console.log('urlHash', urlHash)
+              var searchTerm_ =
+                searchArr[Math.floor(Math.random() * searchArr.length)];
+              if (referrer && !rsToken) {
+                var pageOptions = {
+                    adsafe: "low",
+                    pubId: "pub-3187181028540455",
+                    personalizedAds: false,
+                    relatedSearchTargeting: "query",
+                    query: searchTerm_,
+                    hl: "en",
+                    styleId: "5134551505",
+                    resultsPageBaseUrl: "https://zumpingpocong.pages.dev/search",
+                    resultsPageQueryParam: "q",
+                  },
+                  rsblock1 = {
+                    container: "afs____",
+                    relatedSearches: 6,
+                    adLoadedCallback: function (e, r, a, s) {},
+                  };
+                _googCsa("relatedsearch", pageOptions, rsblock1);
+              }
+            }
+            if (rsToken) {
+              document.getElementById("container__").style.display = "block";
+              if (isMobile) {
+                document
+                  .getElementById("container__")
+                  .classList.remove("container___desk");
+              }
+              var afs____container = document.getElementById("afs____");
+              afs____container.remove();
+              var container_ = document.getElementById("ad______");
+              var container = document.getElementById("ad____");
+              container_.style.display = "block";
+              container.style.display = "block";
+              try {
+                _googCsa(
+                  "ads",
+                  {
+                    adsafe: "low",
+                    channel: "ShoppingVariant",
+                    adfiliateWp: "ca-pub-3187181028540455",
+                    pubId: "pub-3187181028540455",
+                    query: query,
+                    hl: "en",
+                    source: "gcsc",
+                    numRepeated: 0,
+                    ivt: false,
+                    linkTarget: "_blank",
+                    adPage: 1,
+                  },
+                  {
+                    container: "ad____",
+                    styleId: 7824176615 /* 9675870591 4449419535 6856060169 4456468933 7729493184 1430924584 5134551505 1167268112 8095596463 2250459117 9330244380 3257567252 5733297675 */,
+                    adLoadedCallback: window.gAdUnitLoaded || null,
+                    adsResponseCallback: window.gAdsResponse || null,
+                    iframeHeightCallback: window.gAdUnitRender || null,
+                    maxTop: 4,
+                  }
+                );
+                //{
+                //"container": "afs____",
+                //"styleId": 7824176615,
+                //"relatedSearches": 1,
+                //"relatedSearchTargeting": "query",
+                //"query": query,
+                //"channel": "AutoRsVariant",
+                //"resultsPageBaseUrl": "https://masihada.biz.id/search",
+                //"resultsPageQueryParam": "q"
+                //});
+                _googCsa("jsLoadedCallback", window.gAdsScriptLoaded || null);
+              } catch (error) {
+                console.log(error);
+              }
+            }
+            var iframewatcher = setInterval(function () {
+              var activeE = document.activeElement;
+              if (
+                !document.getElementById("afs____") &&
+                activeE &&
+                activeE.tagName == "IFRAME"
+              ) {
+                clearInterval(iframewatcher);
+                function gtag_report_conversion(url) {
+                  var callback = function () {
+                    if (typeof url != "undefined") {
+                      window.location = url;
+                    }
+                  };
+                  return false;
+                }
+                setTimeout(() => {
+                  //window.location.href = 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lawjournal.us/&ved=2ahUKEwiFuoLuydSJAxUq4TgGHYlKN6UQFnoECAgQAQ&usg=AOvVaw1HOfjJd1pIZ7YjZZYi-Wy2'
+                }, 1500);
+              }
+            }, 500);
+          }, 1);
+        </script>
+        <script>
+          var isMobile =
+            /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+              navigator.userAgent
+            );
+          setTimeout(() => {
+            var el_ = document.getElementById("afs____");
+            var el_frame = document.getElementById("master-1");
+            var el_visibility = true;
+            if (el_frame && el_frame.style.visibility === "hidden") {
+              el_visibility = false;
+            }
+            var items_ = [];
+            if (isMobile) {
+              items_ = ["0", "60px", "128px"];
+            } else {
+              var items_ = ["-20px"];
+            }
+            var random_ = Math.floor(Math.random() * items_.length);
+            if (el_ && el_visibility) {
+              el_.style.top = items_[random_];
+            }
+          }, 500);
+        </script>
+      </div>
+    </div>
